@@ -140,7 +140,7 @@ git clone <repository-url>
 Ví dụ:
 
 ```bash
-git clone https://github.com/your-username/hackathon-java-web-service.git
+git clone https://github.com/hunghx/IT211-JavaWebService-hackathon-base-project
 ```
 
 ## 8. Mở dự án bằng IntelliJ IDEA
